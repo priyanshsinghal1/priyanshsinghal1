@@ -18,7 +18,7 @@ using **Java, Spring Boot, React, PostgreSQL and AI**.
   <a href="https://www.linkedin.com/in/priyanshsinghal1/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://priyanshsinghal1.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/Priyansh_Singhal/">
