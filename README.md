@@ -124,10 +124,10 @@ I enjoy turning real-world problems into practical software solutions, from desi
 
 | Project | Focus | What it demonstrates |
 | --- | --- | --- |
-| [Guardrail API](https://github.com/p-singhal-0011/Guardrail-api-engine) | Spring Boot / Backend | REST APIs, PostgreSQL, Redis, authentication |
-| [TaskManager API](https://github.com/p-singhal-0011/TaskManagerAPI) | Backend Engineering | API design, JPA, validation, database architecture |
-| [NeuralKnowledge](https://github.com/p-singhal-0011/Neural-Knowledge) | AI / Backend | AI integration, RAG, Spring Boots |
-| [Medical Image Enhancement](https://github.com/p-singhal-0011/MedEnhanceAI) | AI / Deep Learning | GANs, Transformers, PyTorch, Flask |
+| [Guardrail API](https://github.com/priyanshsinghal1/Guardrail-api-engine) | Spring Boot / Backend | REST APIs, PostgreSQL, Redis, authentication |
+| [TaskManager API](https://github.com/priyanshsinghal1/TaskManagerAPI) | Backend Engineering | API design, JPA, validation, database architecture |
+| [NeuralKnowledge](https://github.com/priyanshsinghal1/Neural-Knowledge) | AI / Backend | AI integration, RAG, Spring Boots |
+| [Medical Image Enhancement](https://github.com/priyanshsinghal1/MedEnhanceAI) | AI / Deep Learning | GANs, Transformers, PyTorch, Flask |
 
 ## 🧠 Core Skills
 
@@ -154,7 +154,7 @@ I enjoy turning real-world problems into practical software solutions, from desi
 
 ## GitHub stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=p-singhal-0011&theme=tokyonight&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=p-singhal-0011&layout=compact&theme=tokyonight&hide_border=true)
-![Streak](https://streak-stats.demolab.com?user=p-singhal-0011&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshsinghal1&theme=tokyonight&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshsinghal1&layout=compact&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=priyanshsinghal1&theme=tokyonight&hide_border=true)
 
